@@ -28,7 +28,10 @@
 ## § 5 Mitgliedsbeiträge
 Es werden Mitgliedsbeiträge erhoben. Über die Höhe und Fälligkeit entscheidet die Mitgliederversammlung.
 Der Vorstand kann in begründeten Fällen den Mitgliedsbeitrag ganz oder teilweise erlassen oder stunden.
+# Rechte und Pflichten der Mitglieder
 
+* Jedes Mitglied hat das Recht, an den Veranstaltungen des Vereins teilzunehmen und das Stimmrecht in der Mitgliederversammlung auszuüben.
+* Jedes Mitglied ist verpflichtet, die Ziele des Vereins nach Kräften zu unterstützen und die festgelegten Mitgliedsbeiträge rechtzeitig zu zahlen.
 ## § 6 Organe des Vereins
 Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 
