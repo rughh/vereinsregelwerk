@@ -51,7 +51,9 @@ Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 
 1. Die Auflösung des Vereins kann nur in einer Mitgliederversammlung mit einer Mehrheit von drei Vierteln der abgegebenen Stimmen beschlossen werden.
 2. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Volks- und Berufsbildung.
+## § 10 Inkrafttreten
 
+Diese Satzung tritt mit der Eintragung in das Vereinsregister in Kraft.
 ---
 
 [Ort], den [Datum der Gründung]
