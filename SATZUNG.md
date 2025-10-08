@@ -46,6 +46,13 @@ Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Sie wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen schriftlich oder per E-Mail unter Angabe der Tagesordnung einberufen.
 2. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmen.
 3. Für Satzungsänderungen ist eine Mehrheit von drei Vierteln der abgegebenen Stimmen erforderlich.
+4. Eine außerordentliche Mitgliederversammlung muss einberufen werden, wenn mindestens ein Drittel der Mitglieder dies schriftlich/in Textforrm unter Angabe der Gründe beantragt.
+5. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel der Mitglieder anwesend ist.
+6. Die Mitgliederversammlung hat insbesondere folgende Aufgaben:
+    * Wahl und Abberufung des Vorstands,
+    * Entgegennahme des Jahresberichts und Entlastung des Vorstands,
+    * Festsetzung der Mitgliedsbeiträge,
+    * Beschlussfassung über Satzungsänderungen und die Auflösung des Vereins.
 
 ## § 9 Auflösung des Vereins und Vermögensanfall
 
