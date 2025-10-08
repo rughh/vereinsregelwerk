@@ -27,6 +27,7 @@
 
 ## § 5 Mitgliedsbeiträge
 Es werden Mitgliedsbeiträge erhoben. Über die Höhe und Fälligkeit entscheidet die Mitgliederversammlung.
+Der Vorstand kann in begründeten Fällen den Mitgliedsbeitrag ganz oder teilweise erlassen oder stunden.
 
 ## § 6 Organe des Vereins
 Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
